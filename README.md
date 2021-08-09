@@ -16,7 +16,7 @@ DeFi portfolio dashboards.
 | Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
 | [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 269       | Yes (beta)        |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 274       | Yes (beta)        |
 | [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
 | [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 96        | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
