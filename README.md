@@ -9,7 +9,7 @@
 
 DeFi portfolio dashboards.
 
-| name                       | supported networks                                                              | DEXes | NFTs | protocols | Earnings tracking |
+| Name                       | Networks                                                              | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
 | [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
 | [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 269       | Yes (beta)        |
