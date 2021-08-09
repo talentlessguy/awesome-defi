@@ -27,10 +27,12 @@ A list of NFT marketplaces.
 
 > Decentralized here means that a marketplace doesn't require a social sign up (only with web3)
 
-| Name                            | Networks                      | Auctions | Decentralized |
-| ------------------------------- | ----------------------------- | -------- | ------------- |
-| [OpenSea](https://opensea.io)   | ![][eth] ![][matic] ![][klay] | Yes      | Yes           |
-| [Rarible](https://rarible.com/) | ![][eth]                      | Yes      | Yes           |
+| Name                                  | Networks                      | Auctions | Decentralized | Media Storage  |
+| ------------------------------------- | ----------------------------- | -------- | ------------- | -------------- |
+| [OpenSea](https://opensea.io)         | ![][eth] ![][matic] ![][klay] | Yes      | Yes           | IPFS / Arweave |
+| [Rarible](https://rarible.com/)       | ![][eth]                      | Yes      | Yes           | IPFS           |
+| [Coinvise](https://www.coinvise.co/)  | ![][matic]                    | ?        | Yes           | IPFS           |
+| [Foundation](https://foundation.app/) | ![][eth]                      | Yes      | Yes           | IPFS           |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
