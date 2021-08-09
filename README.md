@@ -1,5 +1,7 @@
 # awesome-defi
 
+Awesome DeFi protocols, dapps and other resources.
+
 ## Table of contents
 
 - [Dashboards](#dashboards)
@@ -9,17 +11,26 @@
 
 DeFi portfolio dashboards.
 
-| Name                       | Networks                                                              | DEXes | NFTs | Protocols | Earnings tracking |
+| Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 269       | Yes (beta)        |
 | [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 269       | Yes (beta)        |
+| [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
+| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 96        | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
-| [Farm Army][farm-army]     | ![][bsc] | none | none | ? | No |
-| 
+| [Farm Army][farm-army]     | ![][bsc]                                                                        | None  | None | ?         | No                |
 
 ## NFT marketplaces
+
+A list of NFT marketplaces.
+
+> Decentralized here means that a marketplace doesn't require a social sign up (only with web3)
+
+| Name                            | Networks                      | Auctions | Decentralized |
+| ------------------------------- | ----------------------------- | -------- | ------------- |
+| [OpenSea](https://opensea.io)   | ![][eth] ![][matic] ![][klay] | Yes      | Yes           |
+| [Rarible](https://rarible.com/) | ![][eth]                      | Yes      | Yes           |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -35,3 +46,6 @@ DeFi portfolio dashboards.
 [defi-watch]: https://defi.watch
 [avl]: https://i.ibb.co/qnm4mmW/avalanche-avax-logo.png
 [farm-army]: https://farm.army
+[apeboard]: https://apeboard.finance
+[sol]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/sol.png
+[klay]: https://i.ibb.co/Dzc6NyS/klaytn.png
