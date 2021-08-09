@@ -20,7 +20,7 @@ DeFi portfolio dashboards.
 ## NFT marketplaces
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/matic.png
-[eth-icon]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/eth.png
+[eth]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/eth.png
 [bsc]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/bnb.png
 [xdai]: https://i.ibb.co/z8GLHL6/xdai-alternative.png
 [ftm]: https://i.ibb.co/JdQ1dXX/fantom-ftm-logo.png
