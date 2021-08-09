@@ -16,6 +16,8 @@ DeFi portfolio dashboards.
 | [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
+| [Farm Army][farm-army]     | ![][bsc] | none | none | ? | No |
+| 
 
 ## NFT marketplaces
 
@@ -32,3 +34,4 @@ DeFi portfolio dashboards.
 [apy-vision]: https://app.apy.vision/
 [defi-watch]: https://defi.watch
 [avl]: https://i.ibb.co/qnm4mmW/avalanche-avax-logo.png
+[farm-army]: https://farm.army
