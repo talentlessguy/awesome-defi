@@ -5,7 +5,9 @@ Awesome DeFi protocols, dapps and other resources.
 ## Table of contents
 
 - [Dashboards](#dashboards)
-- [NFT marketplaces](#nft-marketplaces)
+- [NFT](#nft)
+  - [Marketplaces](#marketplaces)
+  - [Wrapped NFTs](#wrapped-nfts)
 
 ## Dashboards
 
@@ -21,7 +23,9 @@ DeFi portfolio dashboards.
 | [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]     | ![][bsc]                                                                        | None  | None | ?         | No                |
 
-## NFT marketplaces
+## NFT
+
+### Marketplaces
 
 A list of NFT marketplaces.
 
@@ -33,6 +37,18 @@ A list of NFT marketplaces.
 | [Rarible](https://rarible.com/)       | ![][eth]                      | Yes      | Yes           | IPFS           |
 | [Coinvise](https://www.coinvise.co/)  | ![][matic]                    | ?        | Yes           | IPFS           |
 | [Foundation](https://foundation.app/) | ![][eth]                      | Yes      | Yes           | IPFS           |
+| [Mintable](https://mintable.app/)     | ![][eth]                      | Yes      | No            | AWS            |
+| [Lootex](https://lootex.io)           | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS           |
+
+### Wrapped NFTs
+
+A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
+
+| Name                       | Networks                                    | Short description                                                            |
+| -------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Fractional][fractional]   | ![][eth]                                    | Locks the NFT and creates an ERC-20 representing it                          |
+| [nft20](https://nft20.io/) | ![][eth] ![][matic]                         | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.           |
+| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![xdai] ![avl] | Mint, buy, sell, swap, and create NFTs and NFT farms with contract ownership |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -51,3 +67,5 @@ A list of NFT marketplaces.
 [apeboard]: https://apeboard.finance
 [sol]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/sol.png
 [klay]: https://i.ibb.co/Dzc6NyS/klaytn.png
+[fractional]: https://fractional.art
+[unifty]: https://unifty.io
