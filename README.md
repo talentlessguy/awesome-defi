@@ -44,11 +44,12 @@ A list of NFT marketplaces.
 
 A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
 
-| Name                       | Networks                                    | Short description                                                            |
-| -------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Fractional][fractional]   | ![][eth]                                    | Locks the NFT and creates an ERC-20 representing it                          |
-| [nft20](https://nft20.io/) | ![][eth] ![][matic]                         | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.           |
-| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![xdai] ![avl] | Mint, buy, sell, swap, and create NFTs and NFT farms with contract ownership |
+| Name                       | Networks                                        | Short description                                                                |
+| -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Fractional][fractional]   | ![][eth]                                        | Locks the NFT and creates an ERC-20 representing it                              |
+| [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.               |
+| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avl] | Mint, buy, sell, swap, and create NFTs farms with contract ownership             |
+| [Spectre][spectre]         | ![][eth]                                        | Mint ERC20 backed by NFTs to create a fully liquid and permissionless art market |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -69,3 +70,4 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [klay]: https://i.ibb.co/Dzc6NyS/klaytn.png
 [fractional]: https://fractional.art
 [unifty]: https://unifty.io
+[spectre]: https://spectre.xyz
