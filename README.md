@@ -19,9 +19,9 @@ DeFi portfolio dashboards.
 
 ## NFT marketplaces
 
-[matic]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/matic.png
-[eth]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/eth.png
-[bsc]: https://raw.githubusercontent.com/spothq/cryptocurrencys/master/32/color/bnb.png
+[matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
+[eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
+[bsc]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/bnb.png
 [xdai]: https://i.ibb.co/z8GLHL6/xdai-alternative.png
 [ftm]: https://i.ibb.co/JdQ1dXX/fantom-ftm-logo.png
 [okex]: https://i.ibb.co/DzRNXgb/okex-logo-5-E39-CD0-FB6-seeklogo-com.png
