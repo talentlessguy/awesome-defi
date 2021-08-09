@@ -31,14 +31,15 @@ A list of NFT marketplaces.
 
 > Decentralized here means that a marketplace doesn't require a social sign up (only with web3)
 
-| Name                                  | Networks                      | Auctions | Decentralized | Media Storage  |
-| ------------------------------------- | ----------------------------- | -------- | ------------- | -------------- |
-| [OpenSea](https://opensea.io)         | ![][eth] ![][matic] ![][klay] | Yes      | Yes           | IPFS / Arweave |
-| [Rarible](https://rarible.com/)       | ![][eth]                      | Yes      | Yes           | IPFS           |
-| [Coinvise](https://www.coinvise.co/)  | ![][matic]                    | ?        | Yes           | IPFS           |
-| [Foundation](https://foundation.app/) | ![][eth]                      | Yes      | Yes           | IPFS           |
-| [Mintable](https://mintable.app/)     | ![][eth]                      | Yes      | No            | AWS            |
-| [Lootex](https://lootex.io)           | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS           |
+| Name                                   | Networks                      | Auctions | Decentralized | Media Storage    |
+| -------------------------------------- | ----------------------------- | -------- | ------------- | ---------------- |
+| [OpenSea](https://opensea.io)          | ![][eth] ![][matic] ![][klay] | Yes      | Yes           | IPFS / Arweave   |
+| [Rarible](https://rarible.com/)        | ![][eth]                      | Yes      | Yes           | IPFS             |
+| [KnownOrigin](https://knownorigin.io/) | ![][eth]                      | Yes      | Yes           | Internal CDN (?) |
+| [Coinvise](https://www.coinvise.co/)   | ![][matic]                    | ?        | Yes           | IPFS             |
+| [Foundation](https://foundation.app/)  | ![][eth]                      | Yes      | Yes           | IPFS             |
+| [Mintable](https://mintable.app/)      | ![][eth]                      | Yes      | No            | AWS              |
+| [Lootex](https://lootex.io)            | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS             |
 
 ### Wrapped NFTs
 
@@ -50,6 +51,8 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.               |
 | [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avl] | Mint, buy, sell, swap, and create NFTs farms with contract ownership             |
 | [Spectre][spectre]         | ![][eth]                                        | Mint ERC20 backed by NFTs to create a fully liquid and permissionless art market |
+| [Mochi][mochi]             | ![][matic] ![][bsc]                             | Multi-chain DEX ecosystem for NFTs                                               |
+| [NFTfy](https://nftfy.org) | ![][eth]                                        | Fractionalize their NFTs in a trustless and permissionless manner                |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -71,3 +74,4 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [fractional]: https://fractional.art
 [unifty]: https://unifty.io
 [spectre]: https://spectre.xyz
+[mochi]: https://mochi.market
