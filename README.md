@@ -7,7 +7,7 @@ Awesome DeFi protocols, dapps and other resources.
 - [Dashboards](#dashboards)
 - [NFT](#nft)
   - [Marketplaces](#marketplaces)
-  - [Wrapped NFTs](#wrapped-nfts)
+  - [NFT Tools](#nft-tools)
 
 ## Dashboards
 
@@ -41,18 +41,27 @@ A list of NFT marketplaces.
 | [Mintable](https://mintable.app/)      | ![][eth]                      | Yes      | No            | AWS              |
 | [Lootex](https://lootex.io)            | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS             |
 
-### Wrapped NFTs
+### NFT Tools
 
 A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
 
-| Name                       | Networks                                        | Short description                                                                |
-| -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Fractional][fractional]   | ![][eth]                                        | Locks the NFT and creates an ERC-20 representing it                              |
-| [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.               |
-| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avl] | Mint, buy, sell, swap, and create NFTs farms with contract ownership             |
-| [Spectre][spectre]         | ![][eth]                                        | Mint ERC20 backed by NFTs to create a fully liquid and permissionless art market |
-| [Mochi][mochi]             | ![][matic] ![][bsc]                             | Multi-chain DEX ecosystem for NFTs                                               |
-| [NFTfy](https://nftfy.org) | ![][eth]                                        | Fractionalize their NFTs in a trustless and permissionless manner                |
+| Name                       | Networks                                        | Short description                                                          |
+| -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------- |
+| [Fractional][fractional]   | ![][eth]                                        | Locks the NFT and creates an ERC-20 representing it                        |
+| [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
+| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avl] | Mint, buy, sell, swap, and create NFTs farms with contract ownership       |
+| [Spectre][spectre]         | ![][eth]                                        | Mint ERC20 backed by NFTs to create a liquid and permissionless art market |
+| [Mochi][mochi]             | ![][matic] ![][bsc]                             | Multi-chain DEX ecosystem for NFTs                                         |
+| [NFTfy](https://nftfy.org) | ![][eth]                                        | Fractionalize their NFTs in a trustless and permissionless manner          |
+| [InfiNFT][infinft]         | ![][eth]                                        | A token minting platform with a focus on flexibility and longevity         |
+
+## DEX
+
+| Name                                       | Networks                                                                        | Total Pairs | Volume |
+| ------------------------------------------ | ------------------------------------------------------------------------------- | ----------- | ------ |
+| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                        | 3797        | $305B+ |
+| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1718        | $98B+  |
+| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10085       | $3.9B+ |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -75,3 +84,4 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [unifty]: https://unifty.io
 [spectre]: https://spectre.xyz
 [mochi]: https://mochi.market
+[infinft]: https://infinft.com/
