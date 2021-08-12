@@ -8,6 +8,9 @@ Awesome DeFi protocols, dapps and other resources.
 - [NFT](#nft)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)
+- [DEX](#dex)
+- [Tokens](#tokens)
+  - [Social Tokens](#social-tokens)
 
 ## Dashboards
 
@@ -45,7 +48,7 @@ A list of NFT marketplaces.
 
 A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
 
-| Name                       | Networks                                        | Short description                                                          |
+| Name                       | Networks                                        | Description                                                                |
 | -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------- |
 | [Fractional][fractional]   | ![][eth]                                        | Locks the NFT and creates an ERC-20 representing it                        |
 | [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
@@ -65,6 +68,15 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5.1B+ |
 | [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1.1B+ |
 | [DinoSwap](https://dinoswap.exchange/)     | ![][matic]                                                                      | 16          | $0.3B+ |
+
+## Tokens
+
+### Social tokens
+
+| Name                | Networks | Description     | Contract address          | Market Cap |
+| ------------------- | -------- | --------------- | ------------------------- | ---------- |
+| [DEV Protocol][dev] | ![][eth] | OSS funding     | [dev-addr][dev-etherscan] | $4.3M+     |
+| [Rally][rally]      | ![][eth] | Creator funding | [rally][rally-etherscan]  | $120M+     |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -88,3 +100,9 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [spectre]: https://spectre.xyz
 [mochi]: https://mochi.market
 [infinft]: https://infinft.com/
+[dev]: https://devprotocol.xyz/
+[dev-etherscan]: https://etherscan.io/token/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26
+[dev-addr]: 0x5caf454ba92e6f2c929df14667ee360ed9fd5b26
+[rally]: https://rally.io/
+[rally-etherscan]: https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b
+[rally-addr]: 0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b
