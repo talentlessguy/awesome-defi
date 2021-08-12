@@ -61,6 +61,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | ------------------------------------------ | ------------------------------------------------------------------------------- | ----------- | ------ |
 | [Uniswap](https://uniswap.org/)            | ![][eth]                                                                        | 3.7K+       | $4.8B+ |
 | [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1.7K+       | $3.1B+ |
+| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                    | >3K         | $70B+  |
 | [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5.1B+ |
 | [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1.1B+ |
 | [DinoSwap](https://dinoswap.exchange/)     | ![][matic]                                                                      | 16          | $322M+ |
