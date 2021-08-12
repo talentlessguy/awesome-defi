@@ -16,7 +16,7 @@ DeFi portfolio dashboards.
 | Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
 | [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 274       | Yes (beta)        |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 282       | Yes (beta)        |
 | [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
 | [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 96        | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
@@ -63,7 +63,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1.7K+       | $3.1B+ |
 | [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5.1B+ |
 | [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1.1B+ |
-| [DinoSwap](https://dinoswap.exchange/)     | ![][matic]                                                                      | 16          | $322M+ |
+| [DinoSwap](https://dinoswap.exchange/)     | ![][matic]                                                                      | 16          | $0.3B+ |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
