@@ -73,17 +73,17 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ### Social tokens
 
-| Name                | Networks | Description                        | Contract address                                              | Market Cap |
-| ------------------- | -------- | ---------------------------------- | ------------------------------------------------------------- | ---------- |
-| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [0x5caf454ba92e6f2c929df14667ee360ed9fd5b26][dev-etherscan]   | $4.3M+     |
-| [Rally][rally]      | ![][eth] | Creator funding                    | [0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b][rally-etherscan] | $120M+     |
-| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [0x9355372396e3F6daF13359B7b607a3374cc638e0][whale-etherscan] | $48M+      |
+| Name                | Networks | Description                        | Contract address                                                | Market Cap |
+| ------------------- | -------- | ---------------------------------- | --------------------------------------------------------------- | ---------- |
+| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $4.3M+     |
+| [Rally][rally]      | ![][eth] | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $120M+     |
+| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $48M+      |
 
 ### Computing
 
-| Name                           | Networks          | Description                       | Contract address                                            | Market Cap |
-| ------------------------------ | ----------------- | --------------------------------- | ----------------------------------------------------------- | ---------- |
-| [Golem](https://golem.network) | ![][eth] ![][zks] | Share and use computing resources | [0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429][glm-etherscan] | $417M      |
+| Name                           | Networks          | Description                       | Contract address                                              | Market Cap |
+| ------------------------------ | ----------------- | --------------------------------- | ------------------------------------------------------------- | ---------- |
+| [Golem](https://golem.network) | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $417M      |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
