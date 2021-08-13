@@ -19,7 +19,7 @@ DeFi portfolio dashboards.
 | Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
 | [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 282       | Yes (beta)        |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 29    | No   | 283       | Yes (beta)        |
 | [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
 | [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 96        | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
@@ -73,10 +73,17 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ### Social tokens
 
-| Name                | Networks | Description     | Contract address          | Market Cap |
-| ------------------- | -------- | --------------- | ------------------------- | ---------- |
-| [DEV Protocol][dev] | ![][eth] | OSS funding     | [dev-addr][dev-etherscan] | $4.3M+     |
-| [Rally][rally]      | ![][eth] | Creator funding | [rally][rally-etherscan]  | $120M+     |
+| Name                | Networks | Description                        | Contract address              | Market Cap |
+| ------------------- | -------- | ---------------------------------- | ----------------------------- | ---------- |
+| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [dev-addr][dev-etherscan]     | $4.3M+     |
+| [Rally][rally]      | ![][eth] | Creator funding                    | [rally-addr][rally-etherscan] | $120M+     |
+| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [whale-addr][whale-etherscan] | $48M+      |
+
+### Computing
+
+| Name                           | Networks          | Description                       | Contract address          | Market Cap |
+| ------------------------------ | ----------------- | --------------------------------- | ------------------------- | ---------- |
+| [Golem](https://golem.network) | ![][eth] ![][zks] | Share and use computing resources | [glm-addr][glm-etherscan] | $417M      |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -106,3 +113,9 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [rally]: https://rally.io/
 [rally-etherscan]: https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b
 [rally-addr]: 0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b
+[whale]: https://whale.me/
+[whale-etherscan]: https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0
+[whale-addr]: 0x9355372396e3F6daF13359B7b607a3374cc638e0
+[zks]: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCA0MyAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Mi42NTM5IDEyLjQ5MTVMMzAuODM3OCAwLjcxNjc0M1Y5LjM0TDE5LjEwNTUgMTcuOTczOUwzMC44Mzc4IDE3Ljk4MlYyNC4yNjYyTDQyLjY1MzkgMTIuNDkxNVoiIGZpbGw9IiM0RTUyOUEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjk5ODA0NyAxMi40ODcyTDEyLjgxNDEgMjQuMjYxOVYxNS43MDhMMjQuNTQ2NSA3LjAwNDdMMTIuODE0MSA2Ljk5NjY0VjAuNzEyNDYzTDAuOTk4MDQ3IDEyLjQ4NzJaIiBmaWxsPSIjOEM4REZDIi8+Cjwvc3ZnPgo=
+[glm-addr]: ‍0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429
+[glm-etherscan]: https://etherscan.io/token/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429
