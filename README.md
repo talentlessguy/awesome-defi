@@ -82,7 +82,8 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 | Name                           | Networks          | Description                       | Contract address                                              | Market Cap |
 | ------------------------------ | ----------------- | --------------------------------- | ------------------------------------------------------------- | ---------- |
-| [Golem](https://golem.network) | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $417M      |
+| [Golem][glm] | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $417M      |
+
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -114,3 +115,4 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [whale-etherscan]: https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0
 [zks]: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCA0MyAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Mi42NTM5IDEyLjQ5MTVMMzAuODM3OCAwLjcxNjc0M1Y5LjM0TDE5LjEwNTUgMTcuOTczOUwzMC44Mzc4IDE3Ljk4MlYyNC4yNjYyTDQyLjY1MzkgMTIuNDkxNVoiIGZpbGw9IiM0RTUyOUEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjk5ODA0NyAxMi40ODcyTDEyLjgxNDEgMjQuMjYxOVYxNS43MDhMMjQuNTQ2NSA3LjAwNDdMMTIuODE0MSA2Ljk5NjY0VjAuNzEyNDYzTDAuOTk4MDQ3IDEyLjQ4NzJaIiBmaWxsPSIjOEM4REZDIi8+Cjwvc3ZnPgo=
 [glm-etherscan]: https://etherscan.io/token/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429
+[glm]: https://golem.network
