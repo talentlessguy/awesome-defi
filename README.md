@@ -74,7 +74,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 | Name                | Networks | Description                        | Contract address                                                | Market Cap |
 | ------------------- | -------- | ---------------------------------- | --------------------------------------------------------------- | ---------- |
-| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $4.3M+     |
+| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $6.5M+     |
 | [Rally][rally]      | ![][eth] | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $120M+     |
 | [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $48M+      |
 
