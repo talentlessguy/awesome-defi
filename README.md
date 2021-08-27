@@ -115,11 +115,11 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
 [bsc]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/bnb.png
-[xdai]: https://i.ibb.co/z8GLHL6/xdai-alternative.png
-[ftm]: https://i.ibb.co/JdQ1dXX/fantom-ftm-logo.png
-[okex]: https://i.ibb.co/DzRNXgb/okex-logo-5-E39-CD0-FB6-seeklogo-com.png
-[harmony]: https://i.ibb.co/9TT6xVx/harmony-one-logo.png
-[heco]: https://i.ibb.co/zf33n63/heco-logo.png
+[xdai]: hhttps://dweb.link/ipfs/bafkreibzm64fdn6lk47fkax3hlwg5hov2z6jlgot7ymfzkzkczxfv7544y
+[ftm]: https://dweb.link/ipfs/bafkreica3l2ne64fu74wdsu4a4mpsn5yshn7isybnwvruduxnkz6bbpb5i
+[okex]: https://dweb.link/ipfs/bafkreidpeihzclobn5xinf7zfjcmheyohsv72nnys5kyd6oovtlpnotaru
+[harmony]: https://dweb.link/ipfs/bafkreiabronesm6thqjwj3pcsak6oemw5wg6qiqvqlr3gbyhjwd6ftu5e4
+[heco]: https://dweb.link/ipfs/bafkreibbuqctrcydn5ty3n6i7pblegqfxb2ep6vjejqlf3esqsrbispyuq
 [zapper]: https://zapper.fi
 [debank]: https://debank.com/
 [apy-vision]: https://app.apy.vision/
@@ -128,7 +128,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [farm-army]: https://farm.army
 [apeboard]: https://apeboard.finance
 [sol]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/sol.png
-[klay]: https://i.ibb.co/Dzc6NyS/klaytn.png
+[klay]: https://dweb.link/ipfs/bafkreihcnx7i6a3i44bqzcj6ogvlksthefftkal4q7gbbbudegalzxdap4
 [fractional]: https://fractional.art
 [unifty]: https://unifty.io
 [spectre]: https://spectre.xyz
