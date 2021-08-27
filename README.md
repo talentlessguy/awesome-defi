@@ -5,6 +5,9 @@ Awesome DeFi protocols, dapps and other resources.
 ## Table of contents
 
 - [Dashboards](#dashboards)
+- [Wallets](#wallets)
+  - [Extension](#extension)
+  - [Mobile](#mobile)
 - [NFT](#nft)
   - [Marketplaces](#marketplaces)
   - [NFT Tools](#nft-tools)
@@ -16,15 +19,36 @@ Awesome DeFi protocols, dapps and other resources.
 
 DeFi portfolio dashboards.
 
-| Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
-| -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 89        | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 31    | No   | 336       | Yes (beta)        |
-| [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 110       | Yes               |
-| [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
-| [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
-| [Farm Army][farm-army]     | ![][bsc]                                                                        | None  | None | ?         | No                |
+| Name                       | Networks                                                                         | DEXes | NFTs | Protocols | Earnings tracking |
+| -------------------------- | -------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
+| [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | None  | Yes  | 89        | Yes               |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]              | 31    | No   | 336       | Yes (beta)        |
+| [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                            | 20+   | Yes  | 54        | No                |
+| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                            | None  | None | 110       | Yes               |
+| [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
+| [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
+| [Farm Army][farm-army]     | ![][bsc]                                                                         | None  | None | ?         | No                |
+
+## Wallets
+
+### Extension
+
+| Name     | Networks                                        | Built-in swap | Transaction cancellation | Browsers                     |
+| -------- | ----------------------------------------------- | ------------- | ------------------------ | ---------------------------- |
+| MetaMask | Custom                                          | Yes           | Yes                      | Chrome, Firefox, Brave, Edge |
+| Coinbase | ![][eth] ![][op] ![][matic] ![][xdai] ![][avax] | No            | ?                        | Chrome                       |
+
+### Mobile
+
+List of mobile-only wallets.
+
+> Wallets with both mobile and browser support are only listed in the "browser" section
+
+| Name    | Networks                                                     | Exchange             | Pools   | Savings  | Platforms           | WalletConnect |
+| ------- | ------------------------------------------------------------ | -------------------- | ------- | -------- | ------------------- | ------------- |
+| Rainbow | ![][eth] ![][matic] ![][arbitrum] ![][op]                    | Uniswap              | Uniswap | Compound | iOS, Android (Beta) | Yes           |
+| Trust   | ![][eth] ![][matic] ![][bsc] ![][thunder] ![][etc] ![][tomo] | Uniswap, Pancakeswap | None    | None     | Android, iOS        | Yes           |
+| Stasis  | ![][eth]                                                     | ?                    | None    | None     | Android, iOS        | Yes           |
 
 ## NFT
 
@@ -52,25 +76,25 @@ A list of NFT marketplaces.
 
 A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
 
-| Name                       | Networks                                        | Description                                                                |
-| -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------- |
-| [Fractional][fractional]   | ![][eth]                                        | Locks the NFT and creates an ERC-20 representing it                        |
-| [nft20](https://nft20.io/) | ![][eth] ![][matic]                             | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
-| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avl] | Mint, buy, sell, swap, and create NFTs farms with contract ownership       |
-| [Spectre][spectre]         | ![][eth]                                        | Mint ERC20 backed by NFTs to create a liquid and permissionless art market |
-| [Mochi][mochi]             | ![][matic] ![][bsc]                             | Multi-chain DEX ecosystem for NFTs                                         |
-| [NFTfy](https://nftfy.org) | ![][eth]                                        | Fractionalize their NFTs in a trustless and permissionless manner          |
-| [InfiNFT][infinft]         | ![][eth]                                        | A token minting platform with a focus on flexibility and longevity         |
+| Name                       | Networks                                         | Description                                                                |
+| -------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------- |
+| [Fractional][fractional]   | ![][eth]                                         | Locks the NFT and creates an ERC-20 representing it                        |
+| [nft20](https://nft20.io/) | ![][eth] ![][matic]                              | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
+| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avax] | Mint, buy, sell, swap, and create NFTs farms with contract ownership       |
+| [Spectre][spectre]         | ![][eth]                                         | Mint ERC20 backed by NFTs to create a liquid and permissionless art market |
+| [Mochi][mochi]             | ![][matic] ![][bsc]                              | Multi-chain DEX ecosystem for NFTs                                         |
+| [NFTfy](https://nftfy.org) | ![][eth]                                         | Fractionalize their NFTs in a trustless and permissionless manner          |
+| [InfiNFT][infinft]         | ![][eth]                                         | A token minting platform with a focus on flexibility and longevity         |
 
 ## DEX
 
-| Name                                       | Networks                                                                        | Total Pairs | TVL   |
-| ------------------------------------------ | ------------------------------------------------------------------------------- | ----------- | ----- |
-| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                        | 3.7K+       | $4B+  |
-| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1.7K+       | $3B+  |
-| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                    | 3K+         | $70B+ |
-| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5B+  |
-| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1B+  |
+| Name                                       | Networks                                                                         | Total Pairs | TVL   |
+| ------------------------------------------ | -------------------------------------------------------------------------------- | ----------- | ----- |
+| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                         | 3.7K+       | $4B+  |
+| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | 1.7K+       | $3B+  |
+| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+ |
+| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+  |
+| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+  |
 
 ## Tokens
 
@@ -100,7 +124,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [debank]: https://debank.com/
 [apy-vision]: https://app.apy.vision/
 [defi-watch]: https://defi.watch
-[avl]: https://i.ibb.co/qnm4mmW/avalanche-avax-logo.png
+[avax]: https://i.ibb.co/qnm4mmW/avalanche-avax-logo.png
 [farm-army]: https://farm.army
 [apeboard]: https://apeboard.finance
 [sol]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/sol.png
@@ -119,3 +143,8 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [zks]: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCA0MyAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Mi42NTM5IDEyLjQ5MTVMMzAuODM3OCAwLjcxNjc0M1Y5LjM0TDE5LjEwNTUgMTcuOTczOUwzMC44Mzc4IDE3Ljk4MlYyNC4yNjYyTDQyLjY1MzkgMTIuNDkxNVoiIGZpbGw9IiM0RTUyOUEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjk5ODA0NyAxMi40ODcyTDEyLjgxNDEgMjQuMjYxOVYxNS43MDhMMjQuNTQ2NSA3LjAwNDdMMTIuODE0MSA2Ljk5NjY0VjAuNzEyNDYzTDAuOTk4MDQ3IDEyLjQ4NzJaIiBmaWxsPSIjOEM4REZDIi8+Cjwvc3ZnPgo=
 [glm-etherscan]: https://etherscan.io/token/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429
 [glm]: https://golem.network
+[arbitrum]: https://bafkreiexp4jgjydr4g7eug2lbbmetzt62lmrtpsx7ro5yqcdqggnc4ioea.ipfs.dweb.link
+[op]: https://dweb.link/ipfs/bafkreifjyybj7whe5bsa4fbgjnfmhdhkhsbw6ffghrzrttg5sfjb6fwzs4
+[thunder]: https://dweb.link/ipfs/bafkreievkuaotalsawraahvp2pymiomyjrbi5fkk7nwklg7xkwx5zwqdlu
+[etc]: https://dweb.link/ipfs/bafkreibsk4ihs22qgd6sudw2uahmgvzsqmbnnkbj4bx7a2er2nr5w53wia
+[tomo]: https://dweb.link/ipfs/bafkreicjbvapqbs6r44rxb2lzhtqc7n6i67wvzn6gg5a6hfrneanwel5im
