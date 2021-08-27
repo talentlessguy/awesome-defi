@@ -18,10 +18,10 @@ DeFi portfolio dashboards.
 
 | Name                       | Networks                                                                        | DEXes | NFTs | Protocols | Earnings tracking |
 | -------------------------- | ------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 65+       | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 31    | No   | 325       | Yes (beta)        |
+| [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | None  | Yes  | 89        | Yes               |
+| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]             | 31    | No   | 336       | Yes (beta)        |
 | [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                           | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 96        | Yes               |
+| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                           | None  | None | 110       | Yes               |
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                             | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]     | ![][bsc]                                                                        | None  | None | ?         | No                |
@@ -45,7 +45,7 @@ A list of NFT marketplaces.
 | [Lootex](https://lootex.io)              | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS             |
 | [DaVinci](https://davinci.gallery/)      | ![][harmony]                  | No       | Yes           | IPFS             |
 | [NFT Mall](https://app.nftmall.io)       | ![][matic] ![][bsc]           | No       | Yes           | IPFS             |
-| [NFY Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
+| [NFT Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
 | [Screensaver](https://screensaver.world) | ![][matic]                    | Yes      | Yes           | IPFS             |
 
 ### NFT Tools
@@ -64,13 +64,13 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ## DEX
 
-| Name                                       | Networks                                                                        | Total Pairs | TVL    |
-| ------------------------------------------ | ------------------------------------------------------------------------------- | ----------- | ------ |
-| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                        | 3.7K+       | $4.8B+ |
-| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1.7K+       | $3.1B+ |
-| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                    | 3K+         | $70B+  |
-| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5.1B+ |
-| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1.1B+ |
+| Name                                       | Networks                                                                        | Total Pairs | TVL   |
+| ------------------------------------------ | ------------------------------------------------------------------------------- | ----------- | ----- |
+| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                        | 3.7K+       | $4B+  |
+| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avl] | 1.7K+       | $3B+  |
+| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                    | 3K+         | $70B+ |
+| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                        | 10K+        | $5B+  |
+| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                      | 800+        | $1B+  |
 
 ## Tokens
 
@@ -78,15 +78,15 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 | Name                | Networks | Description                        | Contract address                                                | Market Cap |
 | ------------------- | -------- | ---------------------------------- | --------------------------------------------------------------- | ---------- |
-| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $6.5M+     |
-| [Rally][rally]      | ![][eth] | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $120M+     |
-| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $48M+      |
+| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $5M+       |
+| [Rally][rally]      | ![][eth] | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $100M+     |
+| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $45M+      |
 
 ### Computing
 
 | Name         | Networks          | Description                       | Contract address                                              | Market Cap |
 | ------------ | ----------------- | --------------------------------- | ------------------------------------------------------------- | ---------- |
-| [Golem][glm] | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $417M      |
+| [Golem][glm] | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $400M+     |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
