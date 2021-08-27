@@ -48,7 +48,7 @@ List of mobile-only wallets.
 | ------- | ------------------------------------------------------------ | -------------------- | ------- | -------- | ------------------- | ------------- |
 | Rainbow | ![][eth] ![][matic] ![][arbitrum] ![][op]                    | Uniswap              | Uniswap | Compound | iOS, Android (Beta) | Yes           |
 | Trust   | ![][eth] ![][matic] ![][bsc] ![][thunder] ![][etc] ![][tomo] | Uniswap, Pancakeswap | None    | None     | Android, iOS        | Yes           |
-| Stasis  | ![][eth]                                                     | ?                    | None    | None     | Android, iOS        | Yes           |
+| Stasis  | ![][eth]                                                     | Built-in             | None    | None     | Android, iOS        | Yes           |
 
 ## NFT
 
