@@ -92,13 +92,14 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ## DEX
 
-| Name                                       | Networks                                                                         | Total Pairs | TVL   |
-| ------------------------------------------ | -------------------------------------------------------------------------------- | ----------- | ----- |
-| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                         | 3.7K+       | $4B+  |
-| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | 1.7K+       | $3B+  |
-| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+ |
-| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+  |
-| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+  |
+| Name                                       | Networks                                                                         | Total Pairs | TVL    |
+| ------------------------------------------ | -------------------------------------------------------------------------------- | ----------- | ------ |
+| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                         | 3.7K+       | $4B+   |
+| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | 1.7K+       | $3B+   |
+| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+  |
+| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+   |
+| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+   |
+| [Saber](https://app.saber.so)              | ![][sol]                                                                         | ?           | $700M+ |
 
 ## Tokens
 
