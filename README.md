@@ -28,6 +28,7 @@ DeFi portfolio dashboards.
 | [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]     | ![][bsc]                                                                         | None  | None | ?         | No                |
+| [Step][step]               | ![][sol]                                                                         | ?     | Yes  | ?         | ?                 |
 
 ## Wallets
 
@@ -73,6 +74,7 @@ A list of NFT marketplaces.
 | [Screensaver](https://screensaver.world) | ![][matic]                    | Yes      | Yes           | IPFS             |
 | [CryptoNeed](https://cryptoneed.io)      | ![][avax]                     | Yes      | Yes           | IPFS             |
 | [Snowflake](https://snowflake.market)    | ![][avax]                     | ?        | Yes           | IPFS             |
+| [Metaplex](https://www.metaplex.com/)    | ![][sol]                      | Yes      | Yes           | Arweave          |
 
 ### NFT Tools
 
@@ -129,7 +131,6 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [avax]: https://i.ibb.co/qnm4mmW/avalanche-avax-logo.png
 [farm-army]: https://farm.army
 [apeboard]: https://apeboard.finance
-[sol]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/sol.png
 [klay]: https://dweb.link/ipfs/bafkreihcnx7i6a3i44bqzcj6ogvlksthefftkal4q7gbbbudegalzxdap4
 [fractional]: https://fractional.art
 [unifty]: https://unifty.io
@@ -150,3 +151,5 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [thunder]: https://dweb.link/ipfs/bafkreievkuaotalsawraahvp2pymiomyjrbi5fkk7nwklg7xkwx5zwqdlu
 [etc]: https://dweb.link/ipfs/bafkreibsk4ihs22qgd6sudw2uahmgvzsqmbnnkbj4bx7a2er2nr5w53wia
 [tomo]: https://dweb.link/ipfs/bafkreicjbvapqbs6r44rxb2lzhtqc7n6i67wvzn6gg5a6hfrneanwel5im
+[sol]: https://dweb.link/ipfs/bafkreihvf4zs4hm76b7mpx2shq7cf3sfwnhohov7gp2nj5h5c22sr5ngaq
+[step]: https://step.finance
