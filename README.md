@@ -64,7 +64,7 @@ A list of NFT marketplaces.
 | [OpenSea](https://opensea.io)            | ![][eth] ![][matic] ![][klay] | Yes      | Yes           | IPFS / Arweave   |
 | [Rarible](https://rarible.com/)          | ![][eth]                      | Yes      | Yes           | IPFS             |
 | [KnownOrigin](https://knownorigin.io)    | ![][eth]                      | Yes      | Yes           | Internal CDN (?) |
-| [Coinvise](https://coinvise.co/)         | ![][matic]                    | ?        | Yes           | IPFS             |
+| [Coinvise](https://coinvise.co/)         | ![Polygon][matic]             | ?        | Yes           | IPFS             |
 | [Foundation](https://foundation.app)     | ![][eth]                      | Yes      | Yes           | IPFS             |
 | [Mintable](https://mintable.app/)        | ![][eth]                      | Yes      | No            | AWS              |
 | [Lootex](https://lootex.io)              | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS             |
@@ -72,9 +72,9 @@ A list of NFT marketplaces.
 | [NFT Mall](https://app.nftmall.io)       | ![][matic] ![][bsc]           | No       | Yes           | IPFS             |
 | [NFT Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
 | [Screensaver](https://screensaver.world) | ![][matic]                    | Yes      | Yes           | IPFS             |
-| [CryptoNeed](https://cryptoneed.io)      | ![][avax]                     | Yes      | Yes           | IPFS             |
-| [Snowflake](https://snowflake.market)    | ![][avax]                     | ?        | Yes           | IPFS             |
-| [Metaplex](https://www.metaplex.com/)    | ![][sol]                      | Yes      | Yes           | Arweave          |
+| [CryptoNeed](https://cryptoneed.io)      | ![Avalanche][avax]            | Yes      | Yes           | IPFS             |
+| [Snowflake](https://snowflake.market)    | ![Avalanche][avax]            | ?        | Yes           | IPFS             |
+| [Metaplex](https://www.metaplex.com/)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
 
 ### NFT Tools
 
@@ -99,7 +99,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+  |
 | [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+   |
 | [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+   |
-| [Saber](https://app.saber.so)              | ![][sol]                                                                         | ?           | $700M+ |
+| [Saber](https://app.saber.so)              | ![Solana][sol]                                                                   | ?           | $700M+ |
 | [Trader Joe](https://traderjoexyz.com)     | ![][avax]                                                                        | 2.6K+       | $400M+ |
 
 ## Tokens
