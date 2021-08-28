@@ -56,7 +56,7 @@ List of mobile-only wallets.
 
 A list of NFT marketplaces.
 
-> Decentralized here means that a marketplace doesn't require a social sign up (only with web3)
+> "Decentralized" here means that a marketplace doesn't require a social sign up (only with web3)
 
 | Name                                     | Networks                      | Auctions | Decentralized | Media Storage    |
 | ---------------------------------------- | ----------------------------- | -------- | ------------- | ---------------- |
@@ -71,6 +71,8 @@ A list of NFT marketplaces.
 | [NFT Mall](https://app.nftmall.io)       | ![][matic] ![][bsc]           | No       | Yes           | IPFS             |
 | [NFT Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
 | [Screensaver](https://screensaver.world) | ![][matic]                    | Yes      | Yes           | IPFS             |
+| [CryptoNeed](https://cryptoneed.io)      | ![][avax]                     | Yes      | Yes           | IPFS             |
+| [Snowflake](https://snowflake.market)    | ![][avax]                     | ?        | Yes           | IPFS             |
 
 ### NFT Tools
 
