@@ -100,6 +100,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 | [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+   |
 | [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+   |
 | [Saber](https://app.saber.so)              | ![][sol]                                                                         | ?           | $700M+ |
+| [Trader Joe](https://traderjoexyz.com)     | ![][avax]                                                                        | 2.6K+       | $400M+ |
 
 ## Tokens
 
