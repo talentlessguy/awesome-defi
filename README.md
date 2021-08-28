@@ -42,7 +42,7 @@ DeFi portfolio dashboards.
 
 List of mobile-only wallets.
 
-> Wallets with both mobile and browser support are only listed in the "browser" section
+> Wallets with both mobile and browser support are only listed in the "extension" section
 
 | Name    | Networks                                                     | Exchange             | Pools   | Savings  | Platforms           | WalletConnect |
 | ------- | ------------------------------------------------------------ | -------------------- | ------- | -------- | ------------------- | ------------- |
