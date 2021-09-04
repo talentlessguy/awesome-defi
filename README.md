@@ -19,16 +19,16 @@ Awesome DeFi protocols, dapps and other resources.
 
 DeFi portfolio dashboards.
 
-| Name                       | Networks                                                                         | DEXes | NFTs | Protocols | Earnings tracking |
-| -------------------------- | -------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Tin](https://tin.network) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | None  | Yes  | 89        | Yes               |
-| [DeBank][debank]           | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco]              | 31    | No   | 336       | Yes (beta)        |
-| [Zapper][zapper]           | ![][eth] ![][matic] ![][bsc] ![][ftm]                                            | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]       | ![][eth] ![][matic] ![][bsc] ![][sol]                                            | None  | None | 110       | Yes               |
-| [APY Vision][apy-vision]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
-| [DeFi Watch][defi-watch]   | ![][eth] ![][matic]                                                              | None  | None | ?         | Yes               |
-| [Farm Army][farm-army]     | ![][bsc]                                                                         | None  | None | ?         | No                |
-| [Step][step]               | ![][sol]                                                                         | ?     | Yes  | ?         | ?                 |
+| Name                     | Networks                                                                                       | DEXes | NFTs | Protocols | Earnings tracking |
+| ------------------------ | ---------------------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
+| [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 89        | Yes               |
+| [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 34    | No   | 366       | Yes (beta)        |
+| [Zapper][zapper]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op]                               | 20+   | Yes  | 54        | No                |
+| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 120       | Yes               |
+| [APY Vision][apy-vision] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
+| [DeFi Watch][defi-watch] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
+| [Farm Army][farm-army]   | ![][bsc]                                                                                       | None  | None | ?         | No                |
+| [Step][step]             | ![][sol]                                                                                       | ?     | Yes  | ?         | ?                 |
 
 ## Wallets
 
@@ -47,7 +47,7 @@ List of mobile-only wallets.
 
 | Name    | Networks                                                     | Exchange             | Pools   | Savings  | Platforms           | WalletConnect |
 | ------- | ------------------------------------------------------------ | -------------------- | ------- | -------- | ------------------- | ------------- |
-| Rainbow | ![][eth] ![][matic] ![][arbitrum] ![][op]                    | Uniswap              | Uniswap | Compound | iOS, Android (Beta) | Yes           |
+| Rainbow | ![][eth] ![][matic] ![][arb] ![][op]                         | Uniswap              | Uniswap | Compound | iOS, Android (Beta) | Yes           |
 | Trust   | ![][eth] ![][matic] ![][bsc] ![][thunder] ![][etc] ![][tomo] | Uniswap, Pancakeswap | None    | None     | Android, iOS        | Yes           |
 | Stasis  | ![][eth]                                                     | Built-in             | None    | None     | Android, iOS        | Yes           |
 
@@ -148,10 +148,11 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [zks]: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCA0MyAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Mi42NTM5IDEyLjQ5MTVMMzAuODM3OCAwLjcxNjc0M1Y5LjM0TDE5LjEwNTUgMTcuOTczOUwzMC44Mzc4IDE3Ljk4MlYyNC4yNjYyTDQyLjY1MzkgMTIuNDkxNVoiIGZpbGw9IiM0RTUyOUEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjk5ODA0NyAxMi40ODcyTDEyLjgxNDEgMjQuMjYxOVYxNS43MDhMMjQuNTQ2NSA3LjAwNDdMMTIuODE0MSA2Ljk5NjY0VjAuNzEyNDYzTDAuOTk4MDQ3IDEyLjQ4NzJaIiBmaWxsPSIjOEM4REZDIi8+Cjwvc3ZnPgo=
 [glm-etherscan]: https://etherscan.io/token/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429
 [glm]: https://golem.network
-[arbitrum]: https://bafkreiexp4jgjydr4g7eug2lbbmetzt62lmrtpsx7ro5yqcdqggnc4ioea.ipfs.dweb.link
+[arb]: https://bafkreiexp4jgjydr4g7eug2lbbmetzt62lmrtpsx7ro5yqcdqggnc4ioea.ipfs.dweb.link
 [op]: https://dweb.link/ipfs/bafkreifjyybj7whe5bsa4fbgjnfmhdhkhsbw6ffghrzrttg5sfjb6fwzs4
 [thunder]: https://dweb.link/ipfs/bafkreievkuaotalsawraahvp2pymiomyjrbi5fkk7nwklg7xkwx5zwqdlu
 [etc]: https://dweb.link/ipfs/bafkreibsk4ihs22qgd6sudw2uahmgvzsqmbnnkbj4bx7a2er2nr5w53wia
 [tomo]: https://dweb.link/ipfs/bafkreicjbvapqbs6r44rxb2lzhtqc7n6i67wvzn6gg5a6hfrneanwel5im
 [sol]: https://dweb.link/ipfs/bafkreihvf4zs4hm76b7mpx2shq7cf3sfwnhohov7gp2nj5h5c22sr5ngaq
 [step]: https://step.finance
+[tin]: https://tin.network
