@@ -14,6 +14,7 @@ Awesome DeFi protocols, dapps and other resources.
 - [DEX](#dex)
 - [Tokens](#tokens)
   - [Social Tokens](#social-tokens)
+  - [Computing](#computing)
 
 ## Dashboards
 
