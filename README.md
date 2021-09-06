@@ -21,10 +21,10 @@ DeFi portfolio dashboards.
 
 | Name                     | Networks                                                                                       | DEXes | NFTs | Protocols | Earnings tracking |
 | ------------------------ | ---------------------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 89        | Yes               |
-| [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 34    | No   | 366       | Yes (beta)        |
+| [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 98        | Yes               |
+| [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 34    | No   | 372       | Yes (beta)        |
 | [Zapper][zapper]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op]                               | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 120       | Yes               |
+| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 121       | Yes               |
 | [APY Vision][apy-vision] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]   | ![][bsc]                                                                                       | None  | None | ?         | No                |
@@ -114,9 +114,10 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ### Computing
 
-| Name         | Networks          | Description                       | Contract address                                              | Market Cap |
-| ------------ | ----------------- | --------------------------------- | ------------------------------------------------------------- | ---------- |
-| [Golem][glm] | ![][eth] ![][zks] | Share and use computing resources | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan] | $400M+     |
+| Name           | Networks          | Description                         | Contract address                                                | Market Cap |
+| -------------- | ----------------- | ----------------------------------- | --------------------------------------------------------------- | ---------- |
+| [Golem][glm]   | ![][eth] ![][zks] | Share and use computing resources   | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan]   | $400M+     |
+| [Storj][storj] | ![][eth]          | Cloud object storage for developers | [`0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac`][storj-etherscan] | $500M+     |
 
 [matic]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
@@ -156,3 +157,5 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [sol]: https://dweb.link/ipfs/bafkreihvf4zs4hm76b7mpx2shq7cf3sfwnhohov7gp2nj5h5c22sr5ngaq
 [step]: https://step.finance
 [tin]: https://tin.network
+[storj]: https://storj.io/
+[storj-etherscan]: https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
