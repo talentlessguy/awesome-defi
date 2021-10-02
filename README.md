@@ -76,6 +76,7 @@ A list of NFT marketplaces.
 | [CryptoNeed](https://cryptoneed.io)      | ![Avalanche][avax]            | Yes      | Yes           | IPFS             |
 | [Snowflake](https://snowflake.market)    | ![Avalanche][avax]            | ?        | Yes           | IPFS             |
 | [Metaplex](https://www.metaplex.com/)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
+| [Refinable](https://app.refinable.com)   | ![][eth] ![][bsc] ![][matic]  | Yes      | Yes           | ?
 
 ### NFT Tools
 
