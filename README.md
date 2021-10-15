@@ -23,9 +23,9 @@ DeFi portfolio dashboards.
 | Name                     | Networks                                                                                       | DEXes | NFTs | Protocols | Earnings tracking |
 | ------------------------ | ---------------------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
 | [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 113       | Yes               |
-| [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 35    | No   | 465       | Yes (beta)        |
+| [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 35    | No   | 499       | Yes (beta)        |
 | [Zapper][zapper]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op]                               | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 139       | Yes               |
+| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 146       | Yes               |
 | [APY Vision][apy-vision] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]   | ![][bsc]                                                                                       | None  | None | ?         | No                |
@@ -76,7 +76,8 @@ A list of NFT marketplaces.
 | [CryptoNeed](https://cryptoneed.io)      | ![Avalanche][avax]            | Yes      | Yes           | IPFS             |
 | [Snowflake](https://snowflake.market)    | ![Avalanche][avax]            | ?        | Yes           | IPFS             |
 | [Metaplex](https://www.metaplex.com/)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
-| [Refinable](https://app.refinable.com)   | ![][eth] ![][bsc] ![][matic]  | Yes      | Yes           | ?
+| [Refinable](https://app.refinable.com)   | ![][eth] ![][bsc] ![][matic]  | Yes      | Yes           | ?                |
+| [Zora](https://zora.co)                  | ![][eth]                      | Yes      | Yes           | IPFS             |
 
 ### NFT Tools
 
