@@ -60,51 +60,52 @@ A list of NFT marketplaces.
 
 > "Decentralized" here means that a marketplace doesn't require a social sign up (only with web3)
 
-| Name                                     | Networks                      | Auctions | Decentralized | Media Storage    |
-| ---------------------------------------- | ----------------------------- | -------- | ------------- | ---------------- |
-| [OpenSea](https://opensea.io)            | ![][eth] ![][matic] ![][klay] | Yes      | Yes           | IPFS / Arweave   |
-| [Rarible](https://rarible.com/)          | ![][eth]                      | Yes      | Yes           | IPFS             |
-| [KnownOrigin](https://knownorigin.io)    | ![][eth]                      | Yes      | Yes           | Internal CDN (?) |
-| [Coinvise](https://coinvise.co/)         | ![Polygon][matic]             | ?        | Yes           | IPFS             |
-| [Foundation](https://foundation.app)     | ![][eth]                      | Yes      | Yes           | IPFS             |
-| [Mintable](https://mintable.app/)        | ![][eth]                      | Yes      | No            | AWS              |
-| [Lootex](https://lootex.io)              | ![][eth] ![][matic] ![][bsc]  | Yes      | Yes           | IPFS             |
-| [DaVinci](https://davinci.gallery/)      | ![][harmony]                  | No       | Yes           | IPFS             |
-| [NFT Mall](https://app.nftmall.io)       | ![][matic] ![][bsc]           | No       | Yes           | IPFS             |
-| [NFT Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
-| [Screensaver][screensaver]            | ![][matic]                    | Yes      | Yes           | IPFS             |
-| [CryptoNeed](https://cryptoneed.io)      | ![Avalanche][avax]            | Yes      | Yes           | IPFS             |
-| [Snowflake](https://snowflake.market)    | ![Avalanche][avax]            | ?        | Yes           | IPFS             |
-| [Metaplex](https://www.metaplex.com)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
-| [Refinable](https://app.refinable.com)   | ![][eth] ![][bsc] ![][matic]  | Yes      | Yes           | ?                |
-| [Zora](https://zora.co)                  | ![][eth]                      | Yes      | Yes           | IPFS             |
-| [NFTrade](https://nftrade.com)           | ![][eth] ![][avax] ![][matic] ![][bsc]
+| Name                               | Networks                               | Auctions | Decentralized | Media Storage    |
+| ---------------------------------- | -------------------------------------- | -------- | ------------- | ---------------- |
+| [OpenSea](https://opensea.io)      | ![][eth] ![][matic] ![][klay]          | Yes      | Yes           | IPFS / Arweave   |
+| [Rarible](https://rarible.com/)    | ![][eth]                               | Yes      | Yes           | IPFS             |
+| [KnownOrigin][knownorigin]         | ![][eth]                               | Yes      | Yes           | Internal CDN (?) |
+| [Coinvise](https://coinvise.co/)   | ![Polygon][matic]                      | ?        | Yes           | IPFS             |
+| [Foundation][fnd]                  | ![][eth]                               | Yes      | Yes           | IPFS             |
+| [Mintable](https://mintable.app)   | ![][eth]                               | Yes      | No            | AWS              |
+| [Lootex](https://lootex.io)        | ![][eth] ![][matic] ![][bsc]           | Yes      | Yes           | IPFS             |
+| [DaVinci](https://davinci.gallery) | ![][harmony]                           | No       | Yes           | IPFS             |
+| [NFT Mall](https://app.nftmall.io) | ![][matic] ![][bsc]                    | No       | Yes           | IPFS             |
+| [NFT Yard](https://nftyard.io)     | ![][matic]                             | No       | Yes           | IPFS             |
+| [Screensaver][screensaver]         | ![][matic]                             | Yes      | Yes           | IPFS             |
+| [CryptoNeed][cryptoneed]           | ![Avalanche][avax]                     | Yes      | Yes           | IPFS             |
+| [Snowflake][snowflake]             | ![Avalanche][avax]                     | ?        | Yes           | IPFS             |
+| [Metaplex][metaplex]               | ![Solana][sol]                         | Yes      | Yes           | Arweave          |
+| [Refinable][refinable]             | ![][eth] ![][bsc] ![][matic]           | Yes      | Yes           | ?                |
+| [Zora](https://zora.co)            | ![][eth]                               | Yes      | Yes           | IPFS             |
+| [NFTrade](https://nftrade.com)     | ![][eth] ![][avax] ![][matic] ![][bsc] | Yes      | Yes           | IPFS             |
+| [Artion](https://artion.io)        | ![][ftm]                               | Yes      | Yes           | IPFS             |
 
 ### NFT Tools
 
 A list of marketplaces / platforms that wrap NFTs for extra functionality (yield, ERC-20 wraps, etc)
 
-| Name                       | Networks                                         | Description                                                                |
-| -------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------- |
-| [Fractional][fractional]   | ![][eth]                                         | Locks the NFT and creates an ERC-20 representing it                        |
-| [nft20](https://nft20.io/) | ![][eth] ![][matic]                              | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
-| [Unifty][unifty]           | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avax] | Mint, buy, sell, swap, and create NFTs farms with contract ownership       |
-| [Spectre][spectre]         | ![][eth]                                         | Mint ERC20 backed by NFTs to create a liquid and permissionless art market |
-| [Mochi][mochi]             | ![][matic] ![][bsc]                              | Multi-chain DEX ecosystem for NFTs                                         |
-| [NFTfy](https://nftfy.org) | ![][eth]                                         | Fractionalize their NFTs in a trustless and permissionless manner          |
-| [InfiNFT][infinft]         | ![][eth]                                         | A token minting platform with a focus on flexibility and longevity         |
+| Name                     | Networks                                         | Description                                                                |
+| ------------------------ | ------------------------------------------------ | -------------------------------------------------------------------------- |
+| [Fractional][fractional] | ![][eth]                                         | Locks the NFT and creates an ERC-20 representing it                        |
+| [nft20][nft20]           | ![][eth] ![][matic]                              | Trade, swap, sell & tokenize NFTs, and swap your NFTs to anything.         |
+| [Unifty][unifty]         | ![][eth] ![][matic] ![][bsc] ![][xdai] ![][avax] | Mint, buy, sell, swap, and create NFTs farms with contract ownership       |
+| [Spectre][spectre]       | ![][eth]                                         | Mint ERC20 backed by NFTs to create a liquid and permissionless art market |
+| [Mochi][mochi]           | ![][matic] ![][bsc]                              | Multi-chain DEX ecosystem for NFTs                                         |
+| [NFTfy][nftfy]           | ![][eth]                                         | Fractionalize their NFTs in a trustless and permissionless manner          |
+| [InfiNFT][infinft]       | ![][eth]                                         | A token minting platform with a focus on flexibility and longevity         |
 
 ## DEX
 
-| Name                                       | Networks                                                                         | Total Pairs | TVL    |
-| ------------------------------------------ | -------------------------------------------------------------------------------- | ----------- | ------ |
-| [Uniswap](https://uniswap.org/)            | ![][eth]                                                                         | 3.7K+       | $4B+   |
-| [SushiSwap](https://sushi.com/)            | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | 1.7K+       | $3B+   |
-| [1INCH](https://app.1inch.io)              | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+  |
-| [PancakeSwap](https://pancakeswap.finance) | ![][bsc]                                                                         | 10K+        | $5B+   |
-| [QuickSwap](https://quickswap.exchange/)   | ![][matic]                                                                       | 800+        | $1B+   |
-| [Saber](https://app.saber.so)              | ![Solana][sol]                                                                   | ?           | $700M+ |
-| [Trader Joe](https://traderjoexyz.com)     | ![][avax]                                                                        | 2.6K+       | $400M+ |
+| Name                           | Networks                                                                         | Total Pairs | TVL    |
+| ------------------------------ | -------------------------------------------------------------------------------- | ----------- | ------ |
+| [Uniswap](https://uniswap.org) | ![][eth]                                                                         | 3.7K+       | $4B+   |
+| [SushiSwap](https://sushi.com) | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax] | 1.7K+       | $3B+   |
+| [1INCH](https://app.1inch.io)  | ![][eth] ![][matic] ![][bsc]                                                     | 3K+         | $70B+  |
+| [PancakeSwap][pancake]         | ![][bsc]                                                                         | 10K+        | $5B+   |
+| [QuickSwap][quickswap]         | ![][matic]                                                                       | 800+        | $1B+   |
+| [Saber](https://app.saber.so)  | ![Solana][sol]                                                                   | ?           | $700M+ |
+| [Trader Joe][joe]              | ![][avax]                                                                        | 2.6K+       | $400M+ |
 
 ## Tokens
 
@@ -164,3 +165,14 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [storj]: https://storj.io/
 [storj-etherscan]: https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
 [screensaver]: https://screensaver.world
+[refinable]: https://app.refinable.com
+[knownorigin]: https://knownorigin.io
+[nftfy]: https://nftfy.org
+[pancake]: https://pancakeswap.finance
+[quickswap]: https://quickswap.exchange
+[joe]: https://traderjoexyz.com
+[nft20]: https://nft20.io
+[snowflake]: https://snowflake.market
+[fnd]: https://foundation.app
+[metaplex]: https://www.metaplex.com
+[cryptoneed]: https://cryptoneed.io
