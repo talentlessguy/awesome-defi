@@ -22,10 +22,10 @@ DeFi portfolio dashboards.
 
 | Name                     | Networks                                                                                       | DEXes | NFTs | Protocols | Earnings tracking |
 | ------------------------ | ---------------------------------------------------------------------------------------------- | ----- | ---- | --------- | ----------------- |
-| [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 113       | Yes               |
+| [Tin][tin]               | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][harmony] ![][heco] ![][avax]               | None  | Yes  | 148       | Yes               |
 | [DeBank][debank]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 35    | No   | 499       | Yes (beta)        |
 | [Zapper][zapper]         | ![][eth] ![][matic] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op] ![][harmony]                  | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 146       | Yes               |
+| [ApeBoard][apeboard]     | ![][eth] ![][matic] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 149       | Yes               |
 | [APY Vision][apy-vision] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch] | ![][eth] ![][matic]                                                                            | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]   | ![][bsc]                                                                                       | None  | None | ?         | No                |
@@ -72,12 +72,13 @@ A list of NFT marketplaces.
 | [DaVinci](https://davinci.gallery/)      | ![][harmony]                  | No       | Yes           | IPFS             |
 | [NFT Mall](https://app.nftmall.io)       | ![][matic] ![][bsc]           | No       | Yes           | IPFS             |
 | [NFT Yard](https://nftyard.io/)          | ![][matic]                    | No       | Yes           | IPFS             |
-| [Screensaver](https://screensaver.world) | ![][matic]                    | Yes      | Yes           | IPFS             |
+| [Screensaver][screensaver]            | ![][matic]                    | Yes      | Yes           | IPFS             |
 | [CryptoNeed](https://cryptoneed.io)      | ![Avalanche][avax]            | Yes      | Yes           | IPFS             |
 | [Snowflake](https://snowflake.market)    | ![Avalanche][avax]            | ?        | Yes           | IPFS             |
-| [Metaplex](https://www.metaplex.com/)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
+| [Metaplex](https://www.metaplex.com)    | ![Solana][sol]                | Yes      | Yes           | Arweave          |
 | [Refinable](https://app.refinable.com)   | ![][eth] ![][bsc] ![][matic]  | Yes      | Yes           | ?                |
 | [Zora](https://zora.co)                  | ![][eth]                      | Yes      | Yes           | IPFS             |
+| [NFTrade](https://nftrade.com)           | ![][eth] ![][avax] ![][matic] ![][bsc]
 
 ### NFT Tools
 
@@ -162,3 +163,4 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [tin]: https://tin.network
 [storj]: https://storj.io/
 [storj-etherscan]: https://etherscan.io/token/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
+[screensaver]: https://screensaver.world
