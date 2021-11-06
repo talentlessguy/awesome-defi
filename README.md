@@ -129,7 +129,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [ftm]: https://dweb.link/ipfs/bafkreica3l2ne64fu74wdsu4a4mpsn5yshn7isybnwvruduxnkz6bbpb5i
 [okex]: https://dweb.link/ipfs/bafkreidpeihzclobn5xinf7zfjcmheyohsv72nnys5kyd6oovtlpnotaru
 [harmony]: https://dweb.link/ipfs/bafkreiabronesm6thqjwj3pcsak6oemw5wg6qiqvqlr3gbyhjwd6ftu5e4
-[heco]: https://dweb.link/ipfs/bafkreibbuqctrcydn5ty3n6i7pblegqfxb2ep6vjejqlf3esqsrbispyuq
+[heco]: https://bafkreibbuqctrcydn5ty3n6i7pblegqfxb2ep6vjejqlf3esqsrbispyuq.ipfs.dweb.link
 [zapper]: https://zapper.fi
 [debank]: https://debank.com/
 [apy-vision]: https://app.apy.vision/
@@ -157,7 +157,7 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 [thunder]: https://dweb.link/ipfs/bafkreievkuaotalsawraahvp2pymiomyjrbi5fkk7nwklg7xkwx5zwqdlu
 [etc]: https://dweb.link/ipfs/bafkreibsk4ihs22qgd6sudw2uahmgvzsqmbnnkbj4bx7a2er2nr5w53wia
 [tomo]: https://dweb.link/ipfs/bafkreicjbvapqbs6r44rxb2lzhtqc7n6i67wvzn6gg5a6hfrneanwel5im
-[sol]: https://dweb.link/ipfs/bafkreihvf4zs4hm76b7mpx2shq7cf3sfwnhohov7gp2nj5h5c22sr5ngaq
+[sol]: https://bafkreihvf4zs4hm76b7mpx2shq7cf3sfwnhohov7gp2nj5h5c22sr5ngaq.ipfs.dweb.link
 [step]: https://step.finance
 [tin]: https://tin.network
 [storj]: https://storj.io/
