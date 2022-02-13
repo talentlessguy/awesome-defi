@@ -38,7 +38,7 @@ DeFi portfolio dashboards.
 | Name     | Networks                                    | Built-in swap | Transaction cancellation | Browsers                     |
 | -------- | ------------------------------------------- | ------------- | ------------------------ | ---------------------------- |
 | MetaMask | Custom                                      | Yes           | Yes                      | Chrome, Firefox, Brave, Edge |
-| Coinbase | ![][eth] ![][op] ![][p] ![][xdai] ![][avax] | No            | ?                        | Chrome                       |
+| Coinbase | ![][eth] ![][op] ![][p] ![][xdai] ![][avax] | Yes           | ?                        | Chrome                       |
 
 ### Mobile
 
