@@ -22,10 +22,10 @@ DeFi portfolio dashboards.
 
 | Name                     | Networks                                                                                   | DEXes | NFTs | Protocols | Earnings tracking |
 | ------------------------ | ------------------------------------------------------------------------------------------ | ----- | ---- | --------- | ----------------- |
-| [Tin][tin]               | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][one] ![][heco] ![][avax]                   | None  | Yes  | 148       | Yes               |
-| [DeBank][debank]         | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 35    | No   | 499       | Yes (beta)        |
-| [Zapper][zapper]         | ![][eth] ![][p] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op] ![][one]                      | 20+   | Yes  | 54        | No                |
-| [ApeBoard][apeboard]     | ![][eth] ![][p] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 149       | Yes               |
+| [Tin][tin]               | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][one] ![][heco] ![][avax]                   | None  | Yes  | 244       | Yes               |
+| [DeBank][debank]         | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][xdai] ![][heco] ![][arb] ![][op] ![][avax] | 35    | No   | 500+      | Yes (beta)        |
+| [Zapper][zapper]         | ![][eth] ![][p] ![][bsc] ![][ftm] ![][avax] ![][arb] ![][op] ![][one]                      | 20+   | Yes  | 244       | No                |
+| [ApeBoard][apeboard]     | ![][eth] ![][p] ![][bsc] ![][sol] ![][avax] ![][ftm] ![][arb]                              | None  | None | 249       | Yes               |
 | [APY Vision][apy-vision] | ![][eth] ![][p]                                                                            | None  | None | ?         | Yes               |
 | [DeFi Watch][defi-watch] | ![][eth] ![][p]                                                                            | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]   | ![][bsc]                                                                                   | None  | None | ?         | No                |
@@ -38,7 +38,7 @@ DeFi portfolio dashboards.
 | Name     | Networks                                    | Built-in swap | Transaction cancellation | Browsers                     |
 | -------- | ------------------------------------------- | ------------- | ------------------------ | ---------------------------- |
 | MetaMask | Custom                                      | Yes           | Yes                      | Chrome, Firefox, Brave, Edge |
-| Coinbase | ![][eth] ![][op] ![][p] ![][xdai] ![][avax] | No            | ?                        | Chrome                       |
+| Coinbase | ![][eth] ![][op] ![][p] ![][xdai] ![][avax] | Yes           | ?                        | Chrome                       |
 
 ### Mobile
 
@@ -46,11 +46,11 @@ List of mobile-only wallets.
 
 > Wallets with both mobile and browser support are only listed in the "extension" section
 
-| Name    | Networks                                                 | Exchange             | Pools   | Savings  | Platforms           | WalletConnect |
-| ------- | -------------------------------------------------------- | -------------------- | ------- | -------- | ------------------- | ------------- |
-| Rainbow | ![][eth] ![][p] ![][arb] ![][op]                         | Uniswap              | Uniswap | Compound | iOS, Android (Beta) | Yes           |
-| Trust   | ![][eth] ![][p] ![][bsc] ![][thunder] ![][etc] ![][tomo] | Uniswap, Pancakeswap | None    | None     | Android, iOS        | Yes           |
-| Stasis  | ![][eth]                                                 | Built-in             | None    | None     | Android, iOS        | Yes           |
+| Name    | Networks                                                                                               | Exchange   | Pools   | Savings  | Platforms           | WalletConnect |
+| ------- | ------------------------------------------------------------------------------------------------------ | ---------- | ------- | -------- | ------------------- | ------------- |
+| Rainbow | ![][eth] ![][p] ![][arb] ![][op]                                                                       | Uniswap V2 | Uniswap | Compound | iOS, Android (Beta) | Yes           |
+| Trust   | ![][eth] ![][p] ![][bsc] ![][thunder] ![][etc] ![][tomo] ![][xdai] ![][arb] ![][op] ![][avax] ![][ftm] | 1INCH      | None    | None     | Android, iOS        | Yes           |
+| Stasis  | ![][eth]                                                                                               | Built-in   | None    | None     | Android, iOS        | Yes           |
 
 ## NFT
 
@@ -97,32 +97,32 @@ A list of marketplaces / platforms that wrap NFTs for extra functionality (yield
 
 ## DEX
 
-| Name                           | Networks                                                                 | Total Pairs | TVL    |
-| ------------------------------ | ------------------------------------------------------------------------ | ----------- | ------ |
-| [Uniswap](https://uniswap.org) | ![][eth]                                                                 | 3.7K+       | $4B+   |
-| [SushiSwap](https://sushi.com) | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][one] ![][heco] ![][avax] | 1.7K+       | $3B+   |
-| [1INCH](https://app.1inch.io)  | ![][eth] ![][p] ![][bsc]                                                 | 3K+         | $70B+  |
-| [PancakeSwap][pancake]         | ![][bsc]                                                                 | 10K+        | $5B+   |
-| [QuickSwap][quickswap]         | ![][p]                                                                   | 800+        | $1B+   |
-| [Saber](https://app.saber.so)  | ![Solana][sol]                                                           | ?           | $700M+ |
-| [Trader Joe][joe]              | ![][avax]                                                                | 2.6K+       | $400M+ |
+| Name                              | Networks                                                                 | Total Pairs | TVL    |
+| --------------------------------- | ------------------------------------------------------------------------ | ----------- | ------ |
+| [Uniswap V3](https://uniswap.org) | ![][eth] ![][arb] ![][p] ![][op]                                         | 5.8K+       | $4.8B+ |
+| [SushiSwap](https://sushi.com)    | ![][eth] ![][p] ![][bsc] ![][ftm] ![][okex] ![][one] ![][heco] ![][avax] | 2.5K+       | $3B+   |
+| [1INCH](https://1inch.io)         | ![][eth] ![][p] ![][bsc]                                                 | 3K+         | $180B+ |
+| [PancakeSwap][pancake]            | ![][bsc]                                                                 | 10K+        | $4.3B+ |
+| [QuickSwap][quickswap]            | ![][p]                                                                   | 800+        | $803M+ |
+| [Saber](https://saber.so)         | ![Solana][sol]                                                           | ?           | $600M+ |
+| [Trader Joe][joe]                 | ![][avax]                                                                | 2.6K+       | $213M+ |
 
 ## Tokens
 
 ### Social tokens
 
-| Name                | Networks | Description                        | Contract address                                                | Market Cap |
-| ------------------- | -------- | ---------------------------------- | --------------------------------------------------------------- | ---------- |
-| [DEV Protocol][dev] | ![][eth] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $5M+       |
-| [Rally][rally]      | ![][eth] | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $100M+     |
-| [Whale][whale]      | ![][eth] | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $45M+      |
+| Name                | Networks                 | Description                        | Contract address                                                | Market Cap |
+| ------------------- | ------------------------ | ---------------------------------- | --------------------------------------------------------------- | ---------- |
+| [DEV Protocol][dev] | ![][eth] ![][arb] ![][p] | OSS funding                        | [`0x5caf454ba92e6f2c929df14667ee360ed9fd5b26`][dev-etherscan]   | $2.9M+     |
+| [Rally][rally]      | ![][eth]                 | Creator funding                    | [`0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b`][rally-etherscan] | $718M+     |
+| [Whale][whale]      | ![][eth]                 | social currency backed by rare NFT | [`0x9355372396e3F6daF13359B7b607a3374cc638e0`][whale-etherscan] | $52M+      |
 
 ### Computing
 
 | Name           | Networks          | Description                         | Contract address                                                | Market Cap |
 | -------------- | ----------------- | ----------------------------------- | --------------------------------------------------------------- | ---------- |
-| [Golem][glm]   | ![][eth] ![][zks] | Share and use computing resources   | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan]   | $400M+     |
-| [Storj][storj] | ![][eth]          | Cloud object storage for developers | [`0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac`][storj-etherscan] | $500M+     |
+| [Golem][glm]   | ![][eth] ![][zks] | Share and use computing resources   | [`0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429`][glm-etherscan]   | $356M+     |
+| [Storj][storj] | ![][eth]          | Cloud object storage for developers | [`0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac`][storj-etherscan] | $158M+     |
 
 [p]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/matic.png
 [eth]: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/color/eth.png
