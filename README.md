@@ -1,3 +1,5 @@
+> :warning: Looking for maintainers! DM @v_1rtl on telegram or email me to v1rtl@proton.me
+
 # awesome-defi
 
 Awesome DeFi protocols, dapps and other resources.
