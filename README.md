@@ -1,4 +1,4 @@
-> :warning: Looking for maintainers! DM @v_1rtl on telegram or email me to v1rtl@proton.me
+> :warning: Looking for maintainers! mail me to hi @ v1rtl.site
 
 # awesome-defi
 
